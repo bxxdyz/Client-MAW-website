@@ -4,7 +4,7 @@
   <artifactId>client-web-application</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  
+  <!-- Maven dependencies -->
    <dependencies>
         <dependency>
             <groupId>javax</groupId>
