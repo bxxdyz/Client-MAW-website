@@ -50,7 +50,6 @@
                     <version>2.2</version>
                     <configuration>
                         <port>8081</port>
-                        <path>/</path>
                         <contextReloadable>true</contextReloadable>
                     </configuration>
                 </plugin>
