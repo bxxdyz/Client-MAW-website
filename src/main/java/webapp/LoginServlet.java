@@ -38,6 +38,7 @@ public class LoginServlet extends HttpServlet {
 		out.println("<html>");
 		out.println("<head>");
 		out.println("<title>You Fucker!!!</title>");
+		out.println("<link rel='stylesheet' href='src/main/webapp/WEB-INF/style.css'>");
 		out.println("</head>");
 		out.println("<body>");
 		out.println("<h1>");
