@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 	<head>
 		<meta charset="UTF-8">
 		<title>Home</title>
@@ -19,7 +19,11 @@
 		<script src=""></script>
 	</head>
 	<body>
-		<header class="header-parent-wrapper" id="header-wrapper">
+		<!--Header Component-->
+		<header class="animated initialState" id="header-all">
+			<div class="main-nav-wrapper" id="">
+				
+			</div>
 		</header>
 	</body>
 </html>
