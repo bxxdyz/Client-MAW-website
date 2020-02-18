@@ -21,8 +21,12 @@
 	<body>
 		<!--Header Component-->
 		<header class="animated initialState" id="header-all">
-			<div class="main-nav-wrapper" id="">
+			<div class="main-nav-wrapper" id="nav-all">
+				<div class="header-logo" id="master-logo">
+				</div>
 				
+				<div class="main-navbar-wrapper">
+				</div>
 			</div>
 		</header>
 	</body>
