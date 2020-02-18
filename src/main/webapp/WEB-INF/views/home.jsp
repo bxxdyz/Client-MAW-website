@@ -20,12 +20,29 @@
 	</head>
 	<body>
 		<!--Header Component-->
-		<header class="animated initialState" id="header-all">
-			<div class="main-nav-wrapper" id="nav-all">
+		<header class="animated initialState" id="entire-header">
+			<div class="header-wrapper" id="header-inner-wrapper">
 				<div class="header-logo" id="master-logo">
 				</div>
 				
 				<div class="main-navbar-wrapper">
+					<ul class="entire-navbar-items" id="navbar-items">
+						<li class="list-item-0">
+							<a class="list-item-0-LINK">Who we are</a>
+						</li>
+						<li class="list-item-1">
+							<a class="list-item-1-LINK">Updates</a>
+						</li>
+						<li class="list-item-2">
+							<a class="list-item-2-LINK">Testimonials</a>
+						</li>
+						<li class="list-item-3">
+							<a class="list-item-3-LINK">Gallery</a>
+						</li>
+						<li class="list-item-4">
+							<a class="list-item-4-LINK">Contact</a>
+						</li>
+					</ul>
 				</div>
 			</div>
 		</header>
