@@ -1,12 +1,24 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
-</head>
-<body>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Home</title>
+		
+		<!--Reset CSS-->
+    	<link rel="stylesheet" href="">
+    	
+    	<!--General CSS-->
+		<link rel="stylesheet" href="">
+		
+		<!--Page Specific CSS -->
+		<link rel="stylesheet" href="">
+		
+		<!--Security JavaScript files-->
+		<script src=""></script>
+	</head>
+	<body>
 
-</body>
+	</body>
 </html>
