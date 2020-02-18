@@ -27,20 +27,30 @@
 				
 				<div class="main-navbar-wrapper">
 					<ul class="entire-navbar-items" id="navbar-items">
+						
 						<li class="list-item-0">
-							<a class="list-item-0-LINK">Who we are</a>
+							<a class="list-item-0-LINK" href="#about">Who we are</a>
 						</li>
+						
 						<li class="list-item-1">
-							<a class="list-item-1-LINK">Updates</a>
+							<a class="list-item-1-LINK" href="#updates">Updates</a>
 						</li>
+						
 						<li class="list-item-2">
-							<a class="list-item-2-LINK">Testimonials</a>
+							<a class="list-item-2-LINK" href="#testimonials">Testimonials</a>
 						</li>
+						
 						<li class="list-item-3">
-							<a class="list-item-3-LINK">Gallery</a>
+							<a class="list-item-3-LINK" href="#gallery">Gallery</a>
 						</li>
+						
 						<li class="list-item-4">
-							<a class="list-item-4-LINK">Contact</a>
+							<a class="list-item-4-LINK" href="#contact">Contact</a>
+						</li>
+						
+						<li class="list-item-5">
+							<a class="list-item-5-LINK" href="#direction">Directions</a>
+						
 						</li>
 					</ul>
 				</div>
