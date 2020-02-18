@@ -13,15 +13,6 @@ import javax.servlet.http.HttpServletResponse;
 public class LoginServlet extends HttpServlet {
  protected void doGet(HttpServletRequest request, HttpServletResponse response)
  	throws ServletException, IOException {
-	 PrintWriter out = response.getWriter();
-	 out.println("<!DOCTYPE html>");
-	 out.println("<html lang='en'>");
-	 out.println("<head>");
-	 out.println("<title>This is only a test!!!</title>");
-	 out.println("</head>");
-	 out.println("<body>");
-	 out.println("Servlet Get request/response");
-	 out.println("</body>");
-	 out.println("</html>");
+	 request.getRequestDispatcher("/WEB-INF/views/home.jsp").forward(request, response);
  }
 }
