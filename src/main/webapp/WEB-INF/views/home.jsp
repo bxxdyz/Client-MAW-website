@@ -10,7 +10,7 @@
     	<link rel="stylesheet" href="">
     	
     	<!--General CSS-->
-    	<link rel="stylesheet" href="css/general.css">
+    	<link rel="stylesheet" href="${pageContext.request.contextPath}/css/general.css">
 		
 		<!--Page Specific CSS -->
 		<link rel="stylesheet" href="">
