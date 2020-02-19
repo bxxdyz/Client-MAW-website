@@ -10,10 +10,10 @@
     	<link rel="stylesheet" href="">
     	
     	<!--General CSS-->
-		<link rel="stylesheet" href="">
+    	<link rel="stylesheet" href="css/general.css">
 		
 		<!--Page Specific CSS -->
-		<link rel="stylesheet" href="webap/css/general.css">
+		<link rel="stylesheet" href="">
 		
 		<!--Security JavaScript files-->
 		<script src=""></script>

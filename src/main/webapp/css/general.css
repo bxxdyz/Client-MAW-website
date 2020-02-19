@@ -1,7 +1,19 @@
 @charset "UTF-8";
+
+body{
+	background-color: black;
+}
+
+header{
+	display: block;
+	
+}
+
+
 #header-master{
 	position: fixed;
 	width: 100vw;
+	height: auto;
 	z-index: 30;
 	
 	right: 0;
@@ -14,6 +26,6 @@
     	padding-bottom: 0px;
     	padding-left: 0px;
     	
-    background-color: #FFF;
+    background-color: black;
 }
 
