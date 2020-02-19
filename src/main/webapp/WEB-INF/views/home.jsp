@@ -20,12 +20,12 @@
 	</head>
 	<body>
 		<!--Header Component-->
-		<header class="animated initialState" id="entire-header">
-			<div class="header-wrapper" id="header-inner-wrapper">
+		<header class="animated initialState" id="header-master">
+			<div class="inner-header-wrapper-class" id="inner-header-wrapper-id">
 				<div class="header-logo" id="master-logo">
 				</div>
 				
-				<div class="main-navbar-wrapper">
+				<div class="navbar-master">
 					<ul class="entire-navbar-items" id="navbar-items">
 						
 						<li class="list-item-0">
