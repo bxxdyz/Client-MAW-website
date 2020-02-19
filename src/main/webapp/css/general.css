@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-	background-color: black;
+	background-color: white;
 }
 
 header{
@@ -10,7 +10,7 @@ header{
 }
 
 
-#header-master{
+.header-master-initialState{
 	position: fixed;
 	width: 100vw;
 	height: auto;
@@ -26,6 +26,33 @@ header{
     	padding-bottom: 0px;
     	padding-left: 0px;
     	
-    background-color: black;
+    background-color: green;
 }
 
+
+.navbar-master-class{
+	
+	padding-left: 0;
+    padding-right: 0;
+
+}
+
+.navbar-items-class{
+	float: right;
+	list-style: none;
+	
+	font-size: 1.3vw;
+	
+}
+
+ul li{
+	display: inline-block;
+    list-style-type: disc;
+    
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    
+}
