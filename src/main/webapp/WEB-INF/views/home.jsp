@@ -23,7 +23,7 @@
 		<header class="header-master-initialState" id="header-master">
 			<div class="inner-header-wrapper-class" id="inner-header-wrapper-id">
 				<div class="master-logo-class" id="master-logo">
-				<h1>Magic Auto World</h1>
+				<h1 class="logo">Magic Auto World</h1>
 				</div>
 				
 				<div class="navbar-master-class" id="navbar-master-id">

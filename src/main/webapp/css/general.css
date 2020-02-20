@@ -29,23 +29,32 @@ header{
     background-color: green;
 }
 
+.inner-header-wrapper-class{
+	width: 100vw;
+	height: auto;
+}
+
+.master-logo-class{
+	display: inline;
+}
 
 .navbar-master-class{
-	
+	float: right;
 	padding-left: 0;
     padding-right: 0;
+    margin-top: 50vh;
 
 }
 
 .navbar-items-class{
-	float: right;
+	display: inline-block;
 	list-style: none;
 	
 	font-size: 1.3vw;
 	
 }
 
-ul li{
+.logo, li{
 	display: inline-block;
     list-style-type: disc;
     
@@ -53,6 +62,7 @@ ul li{
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    padding-inline-start: 40px;
+    padding-inline-start: 2vw;
+    padding-inline-end: 2vw;
     
 }
